@@ -184,6 +184,14 @@ a:focus {
     justify-content: flex-end;
 }
 
+
+
+.top-bar .logo24 img {
+    max-width: 100%;
+    max-height: 60px;
+}
+
+
 .top-bar .top-bar-icon {
     width: 40px;
     height: 40px;
