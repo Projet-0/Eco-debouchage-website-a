@@ -648,7 +648,7 @@ a:focus {
     margin: 0;
     font-size: 45px;
     font-weight: 700;
-    text-transform: capitalize;
+    /*text-transform: capitalize;  Modifications pour enlever les majuscules de la page Contact dans envoyez nous vos suggestions */
 }
 
 @media (max-width: 991.98px) {
@@ -1370,13 +1370,13 @@ a:focus {
 }
 
 .contact .contact-info-icon {
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
     background: #ffffff;
-    border-radius: 50px;
+    border-radius: 60px;
 }
 
 .contact .contact-info-icon i {
