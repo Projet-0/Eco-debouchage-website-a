@@ -2098,3 +2098,12 @@ a:focus {
     transition-delay: 0s;
 
 }
+
+
+/* A rajouter dans la section location, ce sont les modifications pour la carte, cela affecte même la carte page contact rajout de bordure noire de 2px*/
+
+iframe {
+    border: 2px black solid;
+
+
+}
