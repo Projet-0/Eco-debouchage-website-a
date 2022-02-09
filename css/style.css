@@ -2107,3 +2107,14 @@ iframe {
 
 
 }
+
+
+/*Mise en place des logos services, on va devoir adapter pour chaque taille de logo, car ce sont des rectangles 
+Cette mise en place est temporaire, on devra définir des id plûtot que des classes pour bien les modifier individuellement
+
+*/
+img.flaticon-car-wash-1 {
+    margin: 0;
+    height: 60px;
+    width: 86px;
+}
