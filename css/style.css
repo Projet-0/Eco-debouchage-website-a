@@ -2118,3 +2118,26 @@ img.flaticon-car-wash-1 {
     height: 60px;
     width: 86px;
 }
+
+/**************************************** PAGE SERVICE : Services rédigés **************************************************/
+
+.service-detail-container {
+    text-align: center;  /* On centre le texte sur la page pour que lors d'un dézoom on n'observe pas de prblm*/
+}
+
+.service-detail-container h2 {
+    color: white;
+    text-align: center;
+}
+
+.service-detail-container p {
+    color: white;
+    padding-left: 15px;
+    text-size-adjust: auto;
+}
+
+
+
+.service-detail-items {
+    margin: 50px;
+}
